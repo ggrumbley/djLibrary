@@ -26,7 +26,7 @@ SECRET_KEY = '9t05^0jz5!j%*81c6xe41g73&*g_28*ns!$fk(t80x6lfim^8l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gg-dj-library.herokuapp.com']
 
 
 # Application definition
